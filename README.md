@@ -12,7 +12,6 @@ The goal of this repository is to document my learning journey and strengthen my
 * Loops
 * Functions
 * Lists, Tuples, Sets, Dictionaries
-* File Handling
 * Practice Problems and Assignments
 
 ## 🎯 Purpose
