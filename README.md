@@ -13,7 +13,7 @@ The goal of this repository is to document my learning journey and strengthen my
 * Functions
 * Lists, Tuples, Sets, Dictionaries
 * Practice Problems and Assignments
-and many more concepts 
+and many more concepts of python.
 ## 🎯 Purpose
 
 * Practice Python programming regularly
