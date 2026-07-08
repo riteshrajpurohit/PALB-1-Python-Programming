@@ -4,7 +4,7 @@ This repository contains my Python programming practice, assignments, and coding
 
 The goal of this repository is to document my learning journey and strengthen my understanding of Python fundamentals through regular practice.
 
-## 📚 Topics Covered
+## 📚 Topics Covered :
 
 * Python Basics
 * Variables and Data Types
